@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify_Status_Code</description>
+   <name>Verify_Status_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8782d75-bf8f-4207-979c-025c0055a412</testCaseGuid>
+</TestCaseEntity>

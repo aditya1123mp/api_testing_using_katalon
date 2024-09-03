@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_request_parameters_test_get_http_method</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16d3d8f7-b527-4446-a88a-811ca6c32e3f</testCaseGuid>
+</TestCaseEntity>
