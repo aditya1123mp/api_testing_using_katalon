@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API returns an error message if the request is malformed.</description>
+   <name>Verify_Malformed_Request_Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>067861d5-6d4b-451d-9961-cd08a86e073a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API returns an error message if the request payload is missing.</description>
+   <name>Verify_Missing_Payload_Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d9300fd-dca7-42bc-bb1e-16a74a4ab660</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Malformed_Request_Error_get_http_method</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20fa2a50-a3ad-41ed-a1d8-6397913ac290</testCaseGuid>
+</TestCaseEntity>

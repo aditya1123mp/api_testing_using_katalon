@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API response payload size is within acceptable&#xd;
+limits.</description>
+   <name>Verify_GitHub_API_Payload_Size</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c79d24b7-4916-4c62-9dd3-db8704f2aa88</testCaseGuid>
+</TestCaseEntity>

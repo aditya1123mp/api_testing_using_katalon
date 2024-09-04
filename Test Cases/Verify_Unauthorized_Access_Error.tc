@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API returns an error message if the requested resource is not authorized.</description>
+   <name>Verify_Unauthorized_Access_Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>574a88ce-f5e7-4295-a6dc-9f3b2d280452</testCaseGuid>
+</TestCaseEntity>

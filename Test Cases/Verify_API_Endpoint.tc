@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API endpoint URL is correct</description>
+   <name>Verify_API_Endpoint</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0652623-edbd-4374-adaa-762e9946e6e6</testCaseGuid>
+</TestCaseEntity>

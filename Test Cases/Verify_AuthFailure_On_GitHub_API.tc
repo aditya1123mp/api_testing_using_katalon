@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API returns an error message if the authentication&#xd;
+fails.</description>
+   <name>Verify_AuthFailure_On_GitHub_API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2370383-d81f-45f0-8b2c-95a2838691ae</testCaseGuid>
+</TestCaseEntity>

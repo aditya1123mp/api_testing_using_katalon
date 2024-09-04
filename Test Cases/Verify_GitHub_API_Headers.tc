@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the API response headers are correct</description>
+   <name>Verify_GitHub_API_Headers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d6c03fa-9250-4e13-8ae4-09c1e87969b8</testCaseGuid>
+</TestCaseEntity>
